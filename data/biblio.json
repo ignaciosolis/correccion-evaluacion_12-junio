@@ -1,0 +1,92 @@
+[
+  {
+    "autor": "Museo de Arte de Lima",
+    "titulo": "Un cuerpo ambulante. Sergio Zevallos en el Grupo Chaclacayo (1982-1994)",
+    "year": 2014,
+    "pais": "Perú",
+    "ciudad": "Lima",
+    "editorial": "Grafica Biblos",
+    "url": "http://www.wkv-stuttgart.de/uploads/media/catalogue1.pdf"
+  },
+  {
+    "autor": "Jean Baudrillard",
+    "titulo": "Cultura y simulacro",
+    "year": 1978,
+    "pais": "España",
+    "ciudad": "Barcelona",
+    "editorial": "Editorial Kairós",
+    "url": "https://books.google.cl/books?hl=es&lr=&id=ZYeYn9AiMqgC&oi=fnd&pg=PA117&dq=cultura+y+simulacro&ots=ili5t16AKM&sig=xIgwxrGJ9wOWJtHHrRbM2XlsZAI#v=onepage&q=cultura%20y%20simulacro&f=false"
+  },
+  {
+    "autor": "Michel Foucault",
+    "titulo": "Vigilar y castigar: nacimiento de la prisión.",
+    "year": 2002,
+    "pais": "Argentina",
+    "ciudad": "Buenos Aires",
+    "editorial": "Siglo XXI Editores Argentina",
+    "url": "https://books.google.cl/books?id=QbSPBAAAQBAJ&printsec=frontcover&dq=vigilar+y+castigar&hl=es&sa=X&ved=0ahUKEwiAhPe7kqfUAhXMGJAKHaLjC9UQ6AEIJDAA#v=onepage&q=vigilar%20y%20castigar&f=false"
+  },
+  {
+    "autor": "Museo Nacional Centro de Arte Reina Sofía",
+    "titulo": "Perder la forma humana:  Una imagen sísmica de los años ochenta en América Latina",
+    "year": 2013,
+    "pais": "España",
+    "ciudad": "Madrid",
+    "editorial": "Museo Nacional Centro de Arte Reina Sofía",
+    "url": "https://monoskop.org/images/1/1e/Perder_la_forma_humana_Una_imagen_sismica_de_los_anos_ochenta.pdf"
+  },
+  {
+    "autor": "Victorino Zechetto",
+    "titulo": "Imágenes en acción, el uso de las imágenes religiosas en la religiosidad popular latinoamericana",
+    "year": 1999,
+    "pais": "Ecuador",
+    "ciudad": "Quito",
+    "editorial": "Editorial Abya Yala",
+    "url": "http://repository.unm.edu/bitstream/handle/1928/11766/Imagenes%20en%20acci%C3%B3n.pdf;sequence=1"
+  },
+  {
+    "autor": "Teresa de Lauretis",
+    "titulo": "Género y teoría queer",
+    "year": 2015,
+    "pais": "Argentina",
+    "ciudad": "Buenos Aires",
+    "editorial": "Mora",
+    "url": "http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1853-001X2015000200004"
+  },
+  {
+    "autor": "Nicolas Viotti",
+    "titulo": "Religiosidad, cultura y poder",
+    "year": 2012,
+    "pais": "Argentina",
+    "ciudad": "Buenos Aires",
+    "editorial": "Prismas",
+    "url": "http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1852-04992012000100008"
+  },
+  {
+    "autor": "Salvador Vidal, María Viteri y José Serrano",
+    "titulo": "Resignificaciones, prácticas y políticas queer en América Latina: otra agenda de cambio social",
+    "year": 2014,
+    "pais": "---",
+    "ciudad": "---",
+    "editorial": "Nómadas",
+    "url": "http://www.scielo.org.co/scielo.php?script=sci_abstract&pid=S0121-75502014000200012&lng=es&nrm=iso"
+  },
+  {
+    "autor": "Nelly Richard",
+    "titulo": "Políticas y estéticas de la memoria",
+    "year": 2000,
+    "pais": "Chile",
+    "ciudad": "Santiago",
+    "editorial": "Editorial Cuarto Propio",
+    "url": "https://books.google.cl/books?hl=es&lr=&id=7mmtrnDC91wC&oi=fnd&pg=PA13&dq=nelly+richard&ots=ivn9u8mxY_&sig=3lX5qO09xp4KZxs-hJbu-8XSITg#v=onepage&q=nelly%20richard&f=false"
+  },
+  {
+    "autor": "Eduardo Vergara Torres",
+    "titulo": "Nelly Richard. Crítica de la memoria.",
+    "year": 2011,
+    "pais": "Santiago",
+    "ciudad": "Chile",
+    "editorial": "Ediciones Universidad Diego Portales",
+    "url": "http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-22952011000300019"
+  }
+]

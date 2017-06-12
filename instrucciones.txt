@@ -1,0 +1,23 @@
+SITIO:
+
+De diseñador gráfico haciendo investigación
+
+Index.php : artículos -> usar csv
+single.php : detalle de artículos 
+bibliografía.php : listado de referencias bibliográficas -> usar json
+visualizaciones.php: 3 o 4 del tema de investigación -> rawgraphs.
+antecedentes.php : 5-7 antecedentes (cosas que se hayan hecho antes, en el mismo ámbito) -> en imagenes proyectos de diseño.
+
+diseño: 30%
+metadatos: 10% -> search engine. schema.org for google, twitter, open graph en general.
+contenidos: 60%
+
+
+Para pasar de hoja de calculo a json:
+gist.githubusercontent.com
+opcion ver en bruto-> raw
+herramientas-> editor de secuencias de comando
+pegar lo que copie de pamela fox
+guardar-> jsonexport
+autorizar
+se agrega un item al menu superior que se llama como el archivo que se acaba de bajar.
